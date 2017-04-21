@@ -1,0 +1,7 @@
+[Activity]
+name = WirelessGraph
+activity_version = 7
+service_name = com.martindengler.WirelessGraph
+exec = sugar-activity wirelessgraphactivity.WirelessGraphActivity -s
+icon = activity-wirelessgraph
+license = GPLv2+
